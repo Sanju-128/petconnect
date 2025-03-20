@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: your-app-name
-    buildCommand: npm install && npm run build
-    startCommand: npm start
-    env: node
-    #jegcebebkjedbekjbebdjebje
